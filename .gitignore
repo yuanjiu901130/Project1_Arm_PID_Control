@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.autosave
+*.log
+*.mex*
+*.mdl.r2015b
+*.slxc
+*.slx.autosave
+*.bak
+*.fig
+*.mlappinstall
+.DS_Store
+Thumbs.db
+*.mat
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.simstate
+*.slxc
+*.slx~*
+*.p
+*.tmr
+Add MATLAB .gitignore file
