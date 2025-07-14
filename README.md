@@ -15,12 +15,15 @@ This project builds on the author's previous theoretical work in robotic arm mod
 
 ## 📁 Project Structure
 
+```
 Project1_Arm_PID_Control/
-├── model/ # Simulink models
-├── scripts/ # MATLAB scripts (initialization, simulation)
-├── img/ # Simulation plots and diagrams
-├── README.md # This file
-└── .gitignore # MATLAB-specific ignore rules
+├── model/        # Simulink models
+├── scripts/      # MATLAB scripts (initialization, simulation)
+├── img/          # Simulation plots and diagrams
+├── README.md     # This file
+└── .gitignore    # MATLAB-specific ignore rules
+```
+
 
 ## 📌 Tasks
 
